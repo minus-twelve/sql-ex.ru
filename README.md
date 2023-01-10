@@ -38,3 +38,18 @@ Select model, speed, hd
 from PC
 where (cd='12x' AND price<600) or (cd='24x' AND price<600)
 ```
+
+
+## 9. Найдите производителей ПК с процессором не менее 450 Мгц. Вывести: Maker
+```
+Select distinct maker
+from product join pc on product.model=pc.model
+where speed>=450
+```
+
+
+## 11. Найдите среднюю скорость ПК.
+```
+Select avg(speed)
+from PC
+```
