@@ -53,3 +53,11 @@ where speed>=450
 Select avg(speed)
 from PC
 ```
+
+
+## 12. Найдите среднюю скорость ПК-блокнотов, цена которых превышает 1000 дол.
+```
+Select avg(speed)
+from laptop
+where price>1000
+```
