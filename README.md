@@ -61,3 +61,11 @@ Select avg(speed)
 from laptop
 where price>1000
 ```
+
+
+## 13. Найдите среднюю скорость ПК, выпущенных производителем A.
+```
+Select avg(speed)
+from product join pc on product.model=pc.model
+where product.maker='a'
+```
