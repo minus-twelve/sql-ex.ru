@@ -37,6 +37,7 @@
 
 
 ## 10. Найдите модели принтеров, имеющих самую высокую цену. Вывести: model, price
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/10.sql)
 
 
 ## 11. Найдите среднюю скорость ПК.
