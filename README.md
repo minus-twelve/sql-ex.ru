@@ -36,6 +36,9 @@
 [Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/9.sql)
 
 
+## 10. Найдите модели принтеров, имеющих самую высокую цену. Вывести: model, price
+
+
 ## 11. Найдите среднюю скорость ПК.
 [Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/11.sql)
 
@@ -46,6 +49,7 @@
 
 ## 13. Найдите среднюю скорость ПК, выпущенных производителем A.
 [Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/13.sql)
-```
 
 
+## 14. Найдите класс, имя и страну для кораблей из таблицы Ships, имеющих не менее 10 орудий.
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/14.sql)
