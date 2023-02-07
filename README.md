@@ -66,3 +66,15 @@
 
 ## 17. Найдите модели ПК-блокнотов, скорость которых меньше скорости каждого из ПК. Вывести: type, model, speed
 [Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/17.sql)
+
+
+## 18. Найдите производителей самых дешевых цветных принтеров. Вывести: maker, price
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/18.sql)
+
+
+## 19. Для каждого производителя, имеющего модели в таблице Laptop, найдите средний размер экрана выпускаемых им ПК-блокнотов. Вывести: maker, средний размер экрана.
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/19.sql)
+
+
+## 20. Найдите производителей, выпускающих по меньшей мере три различных модели ПК. Вывести: Maker, число моделей ПК.
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/20.sql)
