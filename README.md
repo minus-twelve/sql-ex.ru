@@ -54,3 +54,15 @@
 
 ## 14. Найдите класс, имя и страну для кораблей из таблицы Ships, имеющих не менее 10 орудий.
 [Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/14.sql)
+
+
+## 15. Найдите размеры жестких дисков, совпадающих у двух и более PC. Вывести: HD
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/15.sql)
+
+
+## 16. Найдите пары моделей PC, имеющих одинаковые скорость и RAM. В результате каждая пара указывается только один раз, т.е. (i,j), но не (j,i), Порядок вывода: модель с большим номером, модель с меньшим номером, скорость и RAM.
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/16.sql)
+
+
+## 17. Найдите модели ПК-блокнотов, скорость которых меньше скорости каждого из ПК. Вывести: type, model, speed
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/17.sql)
