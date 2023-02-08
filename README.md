@@ -78,3 +78,7 @@
 
 ## 20. Найдите производителей, выпускающих по меньшей мере три различных модели ПК. Вывести: Maker, число моделей ПК.
 [Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/20.sql)
+
+
+## 21. Найдите максимальную цену ПК, выпускаемых каждым производителем, у которого есть модели в таблице PC. Вывести: maker, максимальная цена.
+[Answer](https://github.com/minus-twelve/sql-ex.ru/blob/main/Answers/21.sql)
